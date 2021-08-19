@@ -1,9 +1,7 @@
----
 name: Bug report
 about: Bug reports improve the repo quality
-title: 'issue title'
-labels: 'bug'
-assignees: ''
+title: '[Bug]: '
+labels: [ 'bug' ]
 body:
   - type: markdown
     attributes:

@@ -1,9 +1,7 @@
----
 name: Feature request
 about: Suggest an idea for this project
-title: 'issue title'
-labels: 'enhancement'
-assignees: ''
+title: '[Feature]: '
+labels: [ 'enhancement' ]
 body:
   - type: markdown
     attributes:
