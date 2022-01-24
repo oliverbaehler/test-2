@@ -1,0 +1,10 @@
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: a9c-labels-test
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: privileged-namespace
